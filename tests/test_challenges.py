@@ -4,7 +4,6 @@ import pytest
 
 from src.challenges import add, count_occurrences, is_even, last_index, linear_search
 
-
 # -------------------------
 # add
 # -------------------------
